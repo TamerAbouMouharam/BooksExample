@@ -34,3 +34,4 @@ D:\VS Code Projects\Books\Books.Api\obj\Debug\net10.0\refint\Books.Api.dll
 D:\VS Code Projects\Books\Books.Api\obj\Debug\net10.0\Books.Api.pdb
 D:\VS Code Projects\Books\Books.Api\obj\Debug\net10.0\Books.Api.genruntimeconfig.cache
 D:\VS Code Projects\Books\Books.Api\obj\Debug\net10.0\ref\Books.Api.dll
+D:\VS Code Projects\Books\Books.Api\obj\Debug\net10.0\Books.Api.sourcelink.json
